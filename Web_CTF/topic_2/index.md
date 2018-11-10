@@ -16,6 +16,4 @@ echo 'flag{**********}';
 
 ?num=1 or '1'
 
-flag{bugku-789-ps-ssdf}
-
 ```

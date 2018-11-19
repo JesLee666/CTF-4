@@ -1,5 +1,3 @@
-```php
-
 <?php
 
 error_reporting(0);
@@ -28,11 +26,5 @@ echo 'echo $num;<br>';
 echo 'if($num==1)<br>';
 echo 'echo \'flag{**********}\';<br>';
 echo '}<br>';
-```
 
-<br>
-<br>
-<br>
-<br>
-
-> solution : [x](https://github.com/evilH2O2/CTF/blob/master/Web_CTF/topic_2/x.md)
+?>

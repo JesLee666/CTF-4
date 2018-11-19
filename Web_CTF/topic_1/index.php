@@ -1,5 +1,3 @@
-
-```php
 <?php
 
 $flag = 'flag.txt';
@@ -22,21 +20,5 @@ if (isset($shiyan)) {
 	echo "Oh.no";
 }
 
-```
 
-- flag.txt
-
-```
-prprprprprprpr
-
-```
-
-<br>
-
-> solution
-
-```url
-
-?shiyan=&flag=
-
-```
+?>

@@ -8,4 +8,4 @@
 
 ```
 
-> X = [x.md]()
+> X = [x.md](https://github.com/evilH2O2/CTF/blob/master/Web_CTF/topic_4/x.md)
